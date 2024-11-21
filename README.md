@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Malik</h1>
-<h3 align="center">A passionate Qa Tester</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">I'm a passionate Qa Tester</h3>
 
 - 🌱 I’m currently learning **Automation tests**
 
